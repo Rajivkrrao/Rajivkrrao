@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajivkrrao" target="blank"><img src="https://img.shields.io/twitter/follow/rajivkrrao?logo=twitter&style=for-the-badge" alt="rajivkrrao" /></a> </p>
 
-- 🔭 I’m currently working on **SharePoint Developer & Power Platform Developer**
+- 🔭I am a Sharepoint Developer & PowerApps Developer working on Microsoft Technologies for the past 5 years. I am very much passionate about programming and my core skills are SharePoint, ASP.NET & C#, REACT, JQuery, Javascript, REST API.**
 
 - 🌱 I’m currently learning **SharePoint Frameworks**
 
