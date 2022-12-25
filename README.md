@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/rajivkrrao" target="blank"><img src="https://img.shields.io/twitter/follow/rajivkrrao?logo=twitter&style=for-the-badge" alt="rajivkrrao" /></a> </p>
 
-- 🔭I am a Sharepoint Developer & PowerApps Developer working on Microsoft Technologies for the past 5 years. I am very much passionate about programming and my core skills are SharePoint, ASP.NET & C#, REACT, JQuery, Javascript, REST API.**
-
-- 🌱 I’m currently learning **SharePoint Frameworks**
+- 🔭I am a **SharePoint Developer & PowerApps Developer** working on Microsoft Technologies for the past 4+ years !!
+- 🌱 I’m currently learning **SharePoint Frameworks !**
 
 - 📝 I regularly write articles on [rajkrrao.blogspot.com](rajkrrao.blogspot.com)
 
-- 💬 Ask me about **SharePoint Online**
+- 💬 Ask me about **SharePoint Online !** 
 
 - 📫 How to reach me **rajivkrrao@outlook.com**
 
-- ⚡ Fun fact **I think I'm workaholic**
+- ⚡ Fun fact **I think I'm workaholic !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
